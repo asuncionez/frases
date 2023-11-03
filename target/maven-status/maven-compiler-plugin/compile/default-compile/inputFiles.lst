@@ -1,0 +1,6 @@
+/Users/darkdestiny/Documents/workspace-spring-tool-suite-4-4.18.1.RELEASE/DarkFrasesAPI/src/main/java/com/ipn/mx/modelo/dao/FraseDAO.java
+/Users/darkdestiny/Documents/workspace-spring-tool-suite-4-4.18.1.RELEASE/DarkFrasesAPI/src/main/java/com/ipn/mx/controlador/FraseController.java
+/Users/darkdestiny/Documents/workspace-spring-tool-suite-4-4.18.1.RELEASE/DarkFrasesAPI/src/main/java/com/ipn/mx/DarkFrasesApiApplication.java
+/Users/darkdestiny/Documents/workspace-spring-tool-suite-4-4.18.1.RELEASE/DarkFrasesAPI/src/main/java/com/ipn/mx/modelo/entidades/Frase.java
+/Users/darkdestiny/Documents/workspace-spring-tool-suite-4-4.18.1.RELEASE/DarkFrasesAPI/src/main/java/com/ipn/mx/modelo/servicios/IFraseService.java
+/Users/darkdestiny/Documents/workspace-spring-tool-suite-4-4.18.1.RELEASE/DarkFrasesAPI/src/main/java/com/ipn/mx/modelo/servicios/FraseServiceImpl.java

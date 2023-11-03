@@ -1,0 +1,6 @@
+com/ipn/mx/controlador/FraseController.class
+com/ipn/mx/modelo/entidades/Frase.class
+com/ipn/mx/modelo/dao/FraseDAO.class
+com/ipn/mx/modelo/servicios/FraseServiceImpl.class
+com/ipn/mx/DarkFrasesApiApplication.class
+com/ipn/mx/modelo/servicios/IFraseService.class
